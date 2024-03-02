@@ -1,16 +1,3 @@
-s.page.1
-s.sgid.000000000001
-s.name.Shabon
-s.size.12038534
-s.vers.1
-u.hxid.000000000000
-u.name.Funny Paradox
-////////
-s.page.1
-s.hxid.000000000002
-s.name.Intergalactic Bound
-s.size.5725633
-s.vers.1
-u.hxid.000000000000
-u.name.Funny Paradox
-////////
+page:1
+hxid:000000000001
+hxid:000000000002
